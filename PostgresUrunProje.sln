@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostgresUrunProje", "PostgresUrunProje.csproj", "{B528694E-B7F6-4635-9CC4-DD8D6913036E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B528694E-B7F6-4635-9CC4-DD8D6913036E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B528694E-B7F6-4635-9CC4-DD8D6913036E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B528694E-B7F6-4635-9CC4-DD8D6913036E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B528694E-B7F6-4635-9CC4-DD8D6913036E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66C1C264-7A84-43F5-B1DF-E45F7227693A}
+	EndGlobalSection
+EndGlobal
